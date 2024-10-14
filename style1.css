@@ -1,0 +1,38 @@
+
+body{
+    background-color: black;
+}
+
+.first-page{
+    margin-left: 378px;
+    margin-top: 93px;
+    color: #fff;
+}
+.first-page h1{
+    font-size: 61px;
+    color: #fff;
+}
+.first-page.para1{
+    font-size: 22px;
+}
+.first-page .para2{
+    color:#fff;
+}
+.first-page.input-box{
+    display: inline;
+    padding: 15px;
+    padding-right: 190px;
+    margin-left: -22px;
+}
+.first-page .btn{
+    margin-left: -185px;
+    background-color: red;
+    color: #fff;
+    padding: 17px;
+    padding-left: 28px;
+    padding-right: 28px;
+}
+.header{
+    display:flex;
+    justify-content: space-between;
+}
